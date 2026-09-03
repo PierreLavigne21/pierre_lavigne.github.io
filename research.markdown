@@ -13,12 +13,12 @@ __Preprints :__
 * Robust mean field control: stochastic maximum principle and variational mean field games. François Delarue et Pierre Lavigne, 2026. [Article](homepage/pdf-files/Robust-MFC.pdf), [HAL](https://hal.science/hal-05531353/document).
 
 
-* Growth model with externalities for energetic transition via MFG with common external variable. Pierre Lavigne, Quentin Petit, Xavier Warin. 2025. [Arxiv](https://arxiv.org/pdf/2501.11988).
-
 * Decarbonization of financial markets: a mean-field game approach. Pierre Lavigne and Peter Tankov. 2023. [Arxiv](https://arxiv.org/abs/2301.09163).
 
 
 __Published articles :__
+
+* Growth model with externalities for the energy transition. Mathematical Finance. Pierre Lavigne, Quentin Petit, Xavier Warin. 2026. [Article](https://onlinelibrary.wiley.com/doi/10.1111/mafi.70060), [Arxiv](https://arxiv.org/pdf/2501.11988).
 
 * Generalized conditional gradient and learning in potential mean field games. Pierre Lavigne and Laurent Pfeiffer. Applied Mathematics & Optimization, 2023. [Paper](https://link.springer.com/article/10.1007/s00245-023-10056-8), [Arxiv](https://arxiv.org/abs/2209.12772).
 
