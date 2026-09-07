@@ -8,7 +8,6 @@ permalink: /research/
 
 __Preprints :__
 
-* Robust mean-field games under entropy-based uncertainty. François Delarue et Pierre Lavigne, 2026. [Article](homepage/pdf-files/Robust-MFG.pdf), [HAL](https://hal.science/hal-05556781v1/document).
 
 * Robust mean field control: stochastic maximum principle and variational mean field games. François Delarue et Pierre Lavigne, 2026. [Article](homepage/pdf-files/Robust-MFC.pdf), [HAL](https://hal.science/hal-05531353/document).
 
@@ -17,6 +16,8 @@ __Preprints :__
 
 
 __Published articles :__
+
+* Robust mean-field games under entropy-based uncertainty. (To appear in Mathematical Control and Related Fields). François Delarue et Pierre Lavigne, 2026. [Article](homepage/pdf-files/Robust-MFG.pdf), [HAL](https://hal.science/hal-05556781v1/document).
 
 * Growth model with externalities for the energy transition. Mathematical Finance. Pierre Lavigne, Quentin Petit, Xavier Warin. 2026. [Article](https://onlinelibrary.wiley.com/doi/10.1111/mafi.70060), [Arxiv](https://arxiv.org/pdf/2501.11988).
 
