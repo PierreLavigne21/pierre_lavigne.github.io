@@ -36,3 +36,5 @@ My work repeatedly relies on tools from convex optimization, mathematical analys
 considered models and the design of efficient computational methods.
 
 Mathematical fields of interests: mean field control, mean field games, numerical methods, optimization, probability.
+
+
